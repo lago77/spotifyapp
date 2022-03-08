@@ -1,2 +1,2 @@
 # spotifyapp
-making a front end with the spotify app
+Making a spotify clone app with chat features
